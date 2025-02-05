@@ -1,10 +1,13 @@
+```
 ---
-name : 기능 제안 이슈 템플릿
-about : 기능을 새롭게 요청하고 싶을 때 선택하는 템플릿입니다.
-title : [YYMMDD] 간단 이슈 요약
+name: "\U0001F4C4 Algorithms Issue Templete"
+about: 알고리즘 문제 업데이트를 위한 템플릿
+title: "[YYMMDD] 사이트 - 제목"
 ---
 
+### 문제 개요
 
-## 기능 요약
-
-## 기능 상세
+- 사이트 : SW Expert Academy / Baekjoon / CodeTree / Programmers
+- 제목 : 
+- 링크 :
+```
